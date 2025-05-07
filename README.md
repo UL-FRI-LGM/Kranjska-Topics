@@ -17,10 +17,10 @@ This repository provides three Python scripts used to prepare the data, extract 
 ### Contents
 
 ```
-.
-├── extract_lemmas.py         # Prepares input data for topic postprocessing
-├── prepare_data_speeches.py  # Prepares input data for topic analysis
-├── topics_time.py            # Main script to run topic analysis, prints the results and generates visualisations
+src
+  ├── extract_lemmas.py         # Prepares input data for topic postprocessing
+  ├── prepare_data_speeches.py  # Prepares input data for topic analysis
+  ├── topics_time.py            # Main script to run topic analysis, prints the results and generates visualisations
 ```
 
 ---
